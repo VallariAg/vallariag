@@ -7,13 +7,13 @@ I'm a third year Computer Science undergrad, who loves to build technical soluti
 - 🥇 I recieved AnitaB.org's scholarship to attend **Grace Hopper Conf'21**
 
 
-<a href="https://github.com/vallariag/github-readme-stats">
+<!-- <a href="https://github.com/vallariag/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallariag&layout=compact&theme=material-palenight" />
 </a>
 <br />
 <a href="https://github.com/vallariag/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vallariag&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vallari's github stats" />
-</a>
+</a> -->
 
 ## Contact me!
 - [Twitter](https://twitter.com/VallariAg)
