@@ -2,9 +2,10 @@
 
 I'm a third year Computer Science undergrad, who loves to build technical solutions to problems relevant around me or some silly hacks for fun. 
 
-- 🔭 I’ve work as an Software Engineering Intern at [Setu](https://setu.co/)
+- 💻 I'm currently working as an Outreachy summer intern at [Ceph](https://ceph.io/)
+- 💻 I’ve worked as an Software Engineering Intern at [Setu](https://setu.co/)
 - 🥇 I'm a **Women Techmakers Engineering Fellow**, a scholarship by Talentsprint and Google
-- 🥇 I recieved AnitaB.org's scholarship to attend **Grace Hopper Conf'21**
+- 🥇 I've recieved AnitaB.org's scholarship to attend **Grace Hopper Conf'21**
 
 
 <!-- <a href="https://github.com/vallariag/github-readme-stats">
