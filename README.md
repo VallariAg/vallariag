@@ -6,7 +6,16 @@ I'm a third year Computer Science undergrad, who loves to build technical soluti
 - 💻 I’ve worked as an Software Engineering Intern at [Setu](https://setu.co/)
 - 🥇 I'm a **Women Techmakers Engineering Fellow**, a scholarship by Talentsprint and Google
 - 🥇 I've recieved AnitaB.org's scholarship to attend **Grace Hopper Conf'21**
+- 🖋️ I love to pen down articles to share what I'm learning and to understand concepts better. Checkout my [blog](https://blog.vallariag.dev/).
 
+<!-- 
+More content:
+0. Portfolio
+1. CS CONCEPTS BLOG AND DSA BLOG when enough content
+2. Resume
+3. Hobbies: Illustrations and goodreads
+
+-->
 
 <!-- <a href="https://github.com/vallariag/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallariag&layout=compact&theme=material-palenight" />
