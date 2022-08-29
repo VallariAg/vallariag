@@ -1,12 +1,13 @@
 ### Hello, I'm Vallari 👋
 
-I'm a third year Computer Science undergrad, who loves to build technical solutions to problems relevant around me or some silly hacks for fun. 
+I'm a forth year Computer Science undergrad, who loves to build technical solutions to problems relevant around her or some silly hacks for fun. 
 
-- 💻 I'm currently working as an Outreachy summer intern at [Ceph](https://ceph.io/)
-- 💻 I’ve worked as an Software Engineering Intern at [Setu](https://setu.co/)
-- 🥇 I'm a **Women Techmakers Engineering Fellow**, a scholarship by Talentsprint and Google
-- 🥇 I've recieved AnitaB.org's scholarship to attend **Grace Hopper Conf'21**
-- 🖋️ I love to pen down articles to share what I'm learning and to understand concepts better. Checkout my [blog](https://blog.vallariag.dev/).
+- 💻 I've contributed to [Ceph](https://github.com/ceph/) as an Outreachy Summer Intern'22. 
+- 💻 I’ve also worked as an Software Intern at [Setu](https://setu.co/).
+- 🥇 I'm a **Women Techmakers Engineering Fellow**, a scholarship by Talentsprint and Google.
+- 🥇 I've recieved AnitaB.org's scholarship to attend **Grace Hopper Conf'21**.
+- 🖋️ I love to pen down articles to share what I'm learning and to understand concepts better. Checkout my [technical blog](https://blog.vallariag.dev/).
+- 🔭 I enjoy reading (checkout [Goodreads](https://goodreads.com/vallariag)), illustrating (checkout [behance](https://www.behance.net/vallariag/)), and photography (checkout [unsplash](https://unsplash.com/@vallariag)).
 
 <!-- 
 More content:
@@ -14,7 +15,7 @@ More content:
 1. CS CONCEPTS BLOG AND DSA BLOG when enough content
 2. Resume
 3. Hobbies: Illustrations and goodreads
-
+- 🌱 I’m currently learning computer science concepts. 
 -->
 
 <!-- <a href="https://github.com/vallariag/github-readme-stats">
@@ -25,10 +26,10 @@ More content:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vallariag&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vallari's github stats" />
 </a> -->
 
-## Contact me!
-- [Twitter](https://twitter.com/VallariAg)
-- [Polywork](https://www.polywork.com/vallari)
-- [LinkedIn](https://www.linkedin.com/in/vallariag) 
+### Contact me!
+- Email: [vallariag@gmail.com](mailto:vallariag@gmail.com)
+- Twitter: [@VallariAg](https://twitter.com/VallariAg) 
+- LinkedIn: [@VallariAg](https://www.linkedin.com/in/vallariag) 
 
 <!--
 **VallariAg/vallariag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
