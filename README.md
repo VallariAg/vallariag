@@ -1,6 +1,6 @@
 ### Hello, I'm Vallari 👋
 
-I'm a forth year Computer Science undergrad, who loves to build technical solutions to problems relevant around her or some silly hacks for fun. 
+I'm a fourth year Computer Science undergrad, who loves to build technical solutions to problems relevant around her or some silly hacks for fun. 
 
 - 💻 I've contributed to [Ceph](https://github.com/ceph/) as an Outreachy Summer Intern'22. 
 - 💻 I’ve also worked as an Software Intern at [Setu](https://setu.co/).
