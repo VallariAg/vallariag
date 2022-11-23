@@ -2,12 +2,13 @@
 
 I'm a fourth year Computer Science undergrad, who loves to build technical solutions to problems relevant around her or some silly hacks for fun. 
 
+- 💻 I'm currently working at [FamPay](https://fampay.in/) as a backend engineering intern.
 - 💻 I've contributed to [Ceph](https://github.com/ceph/) as an Outreachy Summer Intern'22. 
 - 💻 I’ve also worked as an Software Intern at [Setu](https://setu.co/).
 - 🥇 I'm a **Women Techmakers Engineering Fellow**, a scholarship by Talentsprint and Google.
 - 🥇 I've recieved AnitaB.org's scholarship to attend **Grace Hopper Conf'21**.
-- 🖋️ I love to pen down articles to share what I'm learning and to understand concepts better. Checkout my [technical blog](https://blog.vallariag.dev/).
-- 🔭 I enjoy reading (checkout [Goodreads](https://goodreads.com/vallariag)), illustrating (checkout [behance](https://www.behance.net/vallariag/)), and photography (checkout [unsplash](https://unsplash.com/@vallariag)).
+- 🖋️ I love to pen down articles to share what I'm learning and to understand concepts better. Checkout my [technical blog](https://stuff-i-learn.netlify.app/).
+- 🔭 I enjoy: [reading](https://goodreads.com/vallariag) | [illustrating](https://www.behance.net/vallariag/) | [photography](https://unsplash.com/@vallariag).
 
 <!-- 
 More content:
