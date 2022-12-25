@@ -1,14 +1,28 @@
 ### Hello, I'm Vallari 👋
 
-I'm a fourth year Computer Science undergrad, who loves to build technical solutions to problems relevant around her or some silly hacks for fun. 
+I'm a final year Computer Science undergraduate student who loves to build technical solutions to problems relevant around me. 
 
-- 💻 I'm currently working at [FamPay](https://fampay.in/) as a backend engineering intern.
-- 💻 I've contributed to [Ceph](https://github.com/ceph/) as an Outreachy Summer Intern'22. 
-- 💻 I’ve also worked as an Software Intern at [Setu](https://setu.co/).
-- 🥇 I'm a **Women Techmakers Engineering Fellow**, a scholarship by Talentsprint and Google.
-- 🥇 I've recieved AnitaB.org's scholarship to attend **Grace Hopper Conf'21**.
-- 🖋️ I love to pen down articles to share what I'm learning and to understand concepts better. Checkout my [technical blog](https://stuff-i-learn.netlify.app/).
-- 🔭 I enjoy: [reading](https://goodreads.com/vallariag) | [illustrating](https://www.behance.net/vallariag/) | [photography](https://unsplash.com/@vallariag).
+- 🖥️ Developing tech at [FamPay](https://fampay.in/) as a backend engineering intern.    
+- 🖥️ Past: Contributed to [Ceph](https://github.com/ceph/) as an Outreachy Summer Intern'22. 
+- 🖥️ Past: Worked as an Software Intern at [Setu](https://setu.co/).
+- 🥇 Part of **Women Techmakers Engineering Fellow** (2020), a scholarship by Talentsprint and Google.
+- 🥇 Recieved AnitaB.org's scholarship to attend **Grace Hopper Conf'21**.
+- 🖋️ Love to pen down articles to share what I'm learning and to understand concepts better. Checkout technical blog [here](https://stuff-i-learn.netlify.app/).
+- 🔭 Hobbies: [reading](https://goodreads.com/vallariag) | [illustrating](https://www.behance.net/vallariag/) | [photography](https://unsplash.com/@vallariag).
+
+
+<!-- 
+### Work Experience
+
+- **Fampay** <br />
+  Backend Engineering Intern <br /> 
+  (Nov 2022 - current) <br />
+- **Ceph** <br />
+  Outreachy Summer Intern <br /> 
+  (May 2022 - Sep 2022) <br />
+- **Setu** <br />
+  Software Intern <br />
+  (Aug 2021 - Feb 2022) <br /> -->
 
 <!-- 
 More content:
