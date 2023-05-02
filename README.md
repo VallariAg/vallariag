@@ -1,13 +1,12 @@
 ### Hello, I'm Vallari 👋
 
-I'm a final year Computer Science undergraduate student who loves to build technical solutions to problems relevant around me. 
-
-- 🖥️ Developing tech at [FamPay](https://fampay.in/) as a backend engineering intern.    
-- 🖥️ Past: Contributed to [Ceph](https://github.com/ceph/) as an Outreachy Summer Intern'22. 
-- 🖥️ Past: Worked as an Software Intern at [Setu](https://setu.co/).
+- 🖥️ Past: Worked as Backend Intern at [FamPay](https://fampay.in/).    
+- 🖥️ Past: Contributed to [Ceph](https://github.com/ceph/) as an **Outreachy Summer Intern'22**. 
+- 🖥️ Past: Worked as Frontend Intern at [Setu](https://setu.co/).
 - 🥇 Part of **Women Techmakers Engineering Fellow** (2020), a scholarship by Talentsprint and Google.
 - 🥇 Recieved AnitaB.org's scholarship to attend **Grace Hopper Conf'21**.
-- 🖋️ Love to pen down articles to share what I'm learning and to understand concepts better. Checkout technical blog [here](https://stuff-i-learn.netlify.app/).
+- 👩‍🎓 Graduating from Bachelor of Technology in Computer Science, in summer 2023.
+- 🖋️ Love to pen down articles to share what I'm learning and to understand concepts better. Blog: [stuff-i-learn.netlify.app/](https://stuff-i-learn.netlify.app/).
 - 🔭 Hobbies: [reading](https://goodreads.com/vallariag) | [illustrating](https://www.behance.net/vallariag/) | [photography](https://unsplash.com/@vallariag).
 
 
