@@ -1,13 +1,8 @@
 ### Hello, I'm Vallari 👋
 
-I'm working as a Software Engineer at IBM Storage team.
-- 🖥️ Past: Worked as Backend Intern at [FamPay](https://fampay.in/).    
-- 🖥️ Past: Contributed to [Ceph](https://github.com/ceph/) as an **Outreachy Summer Intern'22**. 
-- 🖥️ Past: Worked as Frontend Intern at [Setu](https://setu.co/).
-- 🥇 Part of **Women Techmakers Engineering Fellow** (2020), a scholarship by Talentsprint and Google.
-- 🥇 Recieved AnitaB.org's scholarship to attend **Grace Hopper Conf'21**.
-- 🎓 Bachelor of Technology in Computer Science (2019-23).
-- 🖋️ Blog: [stuff-i-learn.netlify.app](https://stuff-i-learn.netlify.app/).
+I'm working as a Software Engineer at Ceph IBM Storage team.
+- 🖥️ Past: Intern at [FamPay](https://fampay.in/) and [Setu](https://setu.co/).
+- 🖋️ Blog: [vallari.pages.dev/](https://vallari.pages.dev/).
 - 🔭 Hobbies: [reading](https://goodreads.com/vallariag) | [illustrating](https://www.behance.net/vallariag/) | [photography](https://unsplash.com/@vallariag).
 
 
@@ -43,8 +38,7 @@ More content:
 -->
 
 ### Contact me!
-- Email: [vallariag@gmail.com](mailto:vallariag@gmail.com)
-- Twitter: [@VallariAg](https://twitter.com/VallariAg) 
+- Email: [vallariag+gh@gmail.com](mailto:vallariag+gh@gmail.com)
 - LinkedIn: [@VallariAg](https://www.linkedin.com/in/vallariag) 
 
 <!--
