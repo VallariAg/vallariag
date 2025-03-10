@@ -1,6 +1,7 @@
-### Hello, I'm Vallari 👋
 
-I'm working as a Software Engineer at Ceph IBM Storage team.
+Hello there!
+
+I'm Vallari and I work as a Software Engineer at Ceph IBM Storage team.
 - 🖥️ Past: Intern at [FamPay](https://fampay.in/) and [Setu](https://setu.co/).
 - 🖋️ Blog: [vallariagrawal.com](https://vallariagrawal.com/).
 - 🔭 Hobbies: [reading](https://goodreads.com/vallariag) | [illustrating](https://www.behance.net/vallariag/) | [photography](https://unsplash.com/@vallariag).
